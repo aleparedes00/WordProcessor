@@ -1,0 +1,214 @@
+Coronavirus
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the group of viruses. For the disease involved in the 2019–20 coronavirus pandemic, see Coronavirus disease 2019. For the virus that causes this disease, see Severe acute respiratory syndrome coronavirus 2.
+Orthocoronavirinae
+Coronaviruses 004 lores.jpg
+Transmission electron micrograph (TEM) of avian infectious bronchitis virus
+SARS-CoV-2 without background.png
+Illustration of the morphology of coronaviruses; the club-shaped viral spike peplomers, colored red, create the look of a corona surrounding the virion when observed with an electron microscope.
+Virus classificatione
+(unranked):	Virus
+Realm:	Riboviria
+Phylum:	incertae sedis
+Order:	Nidovirales
+Family:	Coronaviridae
+Subfamily:	Orthocoronavirinae
+Genera[1]
+Alphacoronavirus
+Betacoronavirus
+Gammacoronavirus
+Deltacoronavirus
+Synonyms[2][3][4]
+Coronavirinae
+Coronaviruses are a group of related viruses that cause diseases in mammals and birds. In humans, coronaviruses cause respiratory tract infections that can range from mild to lethal. Mild illnesses include some cases of the common cold (which has other possible causes, predominantly rhinoviruses), while more lethal varieties can cause SARS, MERS, and COVID-19. Symptoms in other species vary: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea. There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.
+
+Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronaviridae, order Nidovirales, and realm Riboviria.[5][6] They are enveloped viruses with a positive-sense single-stranded RNA genome and a nucleocapsid of helical symmetry. The genome size of coronaviruses ranges from approximately 26 to 32 kilobases, one of the largest among RNA viruses.[7] They have characteristic club-shaped spikes that project from their surface, which in electron micrographs create an image reminiscent of the solar corona from which their name derives.[8]
+
+
+Contents
+1	Discovery
+2	Etymology
+3	Structure
+4	Genome
+5	Life cycle
+5.1	Entry
+5.2	Replication
+5.3	Release
+6	Transmission
+7	Taxonomy
+8	Evolution
+9	Human coronaviruses
+10	Outbreaks of coronavirus diseases
+10.1	Severe acute respiratory syndrome (SARS)
+10.2	Middle East respiratory syndrome (MERS)
+10.3	Coronavirus disease 2019 (COVID-19)
+11	Other animals
+11.1	Diseases caused
+11.2	Domestic animals
+12	See also
+13	References
+14	Further reading
+Discovery
+Coronaviruses were first discovered in the 1930s when an acute respiratory infection of domesticated chickens was shown to be caused by infectious bronchitis virus (IBV). In the 1940s, two more animal coronaviruses, mouse hepatitis virus (MHV) and transmissible gastroenteritis virus (TGEV), were isolated.[9]
+
+Human coronaviruses were discovered in the 1960s.[10] The earliest ones studied were from human patients with the common cold, which were later named human coronavirus 229E and human coronavirus OC43.[11] Other human coronaviruses have since been identified, including SARS-CoV in 2003, HCoV NL63 in 2004, HKU1 in 2005, MERS-CoV in 2012, and SARS-CoV-2 in 2019. Most of these have involved serious respiratory tract infections.
+
+Etymology
+The name "coronavirus" is derived from Latin corona, meaning "crown" or "wreath", itself a borrowing from Greek κορώνη korṓnē, "garland, wreath". The name refers to the characteristic appearance of virions (the infective form of the virus) by electron microscopy, which have a fringe of large, bulbous surface projections creating an image reminiscent of a crown or of a solar corona. This morphology is created by the viral spike peplomers, which are proteins on the surface of the virus.[8][12]
+
+Structure
+Cross-sectional model of a coronavirus
+Cross-sectional model of a coronavirus
+Coronaviruses are large pleomorphic spherical particles with bulbous surface projections.[13] The average diameter of the virus particles is around 120 nm (.12 μm). The diameter of the envelope is ~80 nm (.08 μm) and the spikes are ~20 nm (.02 μm) long. The envelope of the virus in electron micrographs appears as a distinct pair of electron dense shells.[14][15]
+
+The viral envelope consists of a lipid bilayer where the membrane (M), envelope (E) and spike (S) structural proteins are anchored.[16] A subset of coronaviruses (specifically the members of betacoronavirus subgroup A) also have a shorter spike-like surface protein called hemagglutinin esterase (HE).[5]
+
+Inside the envelope, there is the nucleocapsid, which is formed from multiple copies of the nucleocapsid (N) protein, which are bound to the positive-sense single-stranded RNA genome in a continuous beads-on-a-string type conformation.[15][17] The lipid bilayer envelope, membrane proteins, and nucleocapsid protect the virus when it is outside the host cell.[18]
+
+Genome
+See also: Severe acute respiratory syndrome-related coronavirus § Genome
+
+Schematic representation of the genome organization and functional domains of S protein for SARS-CoV and MERS-CoV
+Coronaviruses contain a positive-sense, single-stranded RNA genome. The genome size for coronaviruses ranges from 26.4 to 31.7 kilobases.[7] The genome size is one of the largest among RNA viruses. The genome has a 5′ methylated cap and a 3′ polyadenylated tail.[15]
+
+The genome organization for a coronavirus is 5′-leader-UTR-replicase/transcriptase-spike (S)-envelope (E)-membrane (M)-nucleocapsid (N)-3′UTR-poly (A) tail. The open reading frames 1a and 1b, which occupy the first two-thirds of the genome, encode the replicase/transcriptase polyprotein. The replicase/transcriptase polyprotein self cleaves to form nonstructural proteins.[15]
+
+The later reading frames encode the four major structural proteins: spike, envelope, membrane, and nucleocapsid.[19] Interspersed between these reading frames are the reading frames for the accessory proteins. The number of accessory proteins and their function is unique depending on the specific coronavirus.[15]
+
+Life cycle
+Entry
+
+The life cycle of a coronavirus
+Infection begins when the viral spike (S) glycoprotein attaches to its complementary host cell receptor. After attachment, a protease of the host cell cleaves and activates the receptor-attached spike protein. Depending on the host cell protease available, cleavage and activation allows the virus to enter the host cell by endocytosis or direct fusion of the viral envelop with the host membrane.[20]
+
+On entry into the host cell, the virus particle is uncoated, and its genome enters the cell cytoplasm.[15] The coronavirus RNA genome has a 5′ methylated cap and a 3′ polyadenylated tail, which allows the RNA to attach to the host cell's ribosome for translation.[15] The host ribosome translates the initial overlapping open reading frame of the virus genome and forms a long polyprotein. The polyprotein has its own proteases which cleave the polyprotein into multiple nonstructural proteins.[15]
+
+Replication
+A number of the nonstructural proteins coalesce to form a multi-protein replicase-transcriptase complex (RTC). The main replicase-transcriptase protein is the RNA-dependent RNA polymerase (RdRp). It is directly involved in the replication and transcription of RNA from an RNA strand. The other nonstructural proteins in the complex assist in the replication and transcription process. The exoribonuclease nonstructural protein, for instance, provides extra fidelity to replication by providing a proofreading function which the RNA-dependent RNA polymerase lacks.[21]
+
+One of the main functions of the complex is to replicate the viral genome. RdRp directly mediates the synthesis of negative-sense genomic RNA from the positive-sense genomic RNA. This is followed by the replication of positive-sense genomic RNA from the negative-sense genomic RNA.[15] The other important function of the complex is to transcribe the viral genome. RdRp directly mediates the synthesis of negative-sense subgenomic RNA molecules from the positive-sense genomic RNA. This is followed by the transcription of these negative-sense subgenomic RNA molecules to their corresponding positive-sense mRNAs.[15]
+
+Release
+The replicated positive-sense genomic RNA becomes the genome of the progeny viruses. The mRNAs are gene transcripts of the last third of the virus genome after the initial overlapping reading frame. These mRNAs are translated by the host's ribosomes into the structural proteins and a number of accessory proteins.[15] RNA translation occurs inside the endoplasmic reticulum. The viral structural proteins S, E, and M move along the secretory pathway into the Golgi intermediate compartment. There, the M proteins direct most protein-protein interactions required for assembly of viruses following its binding to the nucleocapsid.[22] Progeny viruses are then released from the host cell by exocytosis through secretory vesicles.[22]
+
+Transmission
+The interaction of the coronavirus spike protein with its complement host cell receptor is central in determining the tissue tropism, infectivity, and species range of the virus.[23][24] The SARS coronavirus, for example, infects human cells by attaching to the angiotensin-converting enzyme 2 (ACE2) receptor.[25]
+
+Taxonomy
+For a more detailed list of members, see Coronaviridae.
+
+Phylogenetic tree of coronaviruses
+The scientific name for coronavirus is Orthocoronavirinae or Coronavirinae.[2][3][4] Coronaviruses belong to the family of Coronaviridae, order Nidovirales, and realm Riboviria.[5][6] They are divided into alphacoronaviruses and betacoronaviruses which infect mammals, and gammacoronaviruses and deltacoronaviruses which primarily infect birds.[26]
+
+Genus: Alphacoronavirus
+Species: Human coronavirus 229E, Human coronavirus NL63, Miniopterus bat coronavirus 1, Miniopterus bat coronavirus HKU8, Porcine epidemic diarrhea virus, Rhinolophus bat coronavirus HKU2, Scotophilus bat coronavirus 512
+Genus Betacoronavirus; type species: Murine coronavirus
+Species: Betacoronavirus 1 (Human coronavirus OC43), Human coronavirus HKU1, Murine coronavirus, Pipistrellus bat coronavirus HKU5, Rousettus bat coronavirus HKU9, Severe acute respiratory syndrome-related coronavirus (SARS-CoV, SARS-CoV-2), Tylonycteris bat coronavirus HKU4, Middle East respiratory syndrome-related coronavirus, Hedgehog coronavirus 1 (EriCoV)
+Genus Gammacoronavirus; type species: Infectious bronchitis virus
+Species: Beluga whale coronavirus SW1, Infectious bronchitis virus
+Genus Deltacoronavirus; type species: Bulbul coronavirus HKU11
+Species: Bulbul coronavirus HKU11, Porcine coronavirus HKU15
+Evolution
+The most recent common ancestor (MRCA) of all coronaviruses is estimated to have existed as recently as 8000 BCE, although some models place the common ancestor as far back as 55 million years or more, implying long term coevolution with bat and avian species.[27] The MRCAs of the alphacoronavirus line has been placed at about 2400 BCE, the betacoronavirus line at 3300 BCE, the gammacoronavirus line at 2800 BCE, and the deltacoronavirus line at about 3000 BCE. Bats and birds, as warm-blooded flying vertebrates, are ideal hosts for the coronavirus gene pool (bats the reservoir for alphacoronavirus and betacoronavirus and birds the natural reservoir for gammacoronavirus and deltacoronavirus). The large number of host bat and avian species, and their global range, has enabled extensive coronavirus evolution and dissemination.[28]
+
+Many human coronavirus have their origin in bats.[29] MERS-CoV, although related to several bat coronavirus species, appears to have diverged from these several centuries ago.[30] The human coronavirus NL63 and a bat coronavirus shared an MRCA 563–822 years ago.[31] The most closely related bat coronavirus and SARS-CoV diverged in 1986.[32] A path of evolution of the SARS virus and keen relationship with bats have been proposed. The authors suggest that the coronaviruses have been coevolved with bats for a long time and the ancestors of SARS-CoV first infected the species of the genus Hipposideridae, subsequently spread to species of the Rhinolophidae and then to civets, and finally to humans.[33][34]
+
+Bovine coronavirus is thought to have originated in rodents, unlike most other betacoronaviruses which originated in bats.[29] In the 1790s, equine coronavirus diverged from the bovine coronavirus after a cross-species jump.[35] Later in the 1890s, human coronavirus OC43 evolved from bovine coronavirus after another cross-species spillover event.[36][35] It is speculated that the flu pandemic of 1890 may have been caused by this spillover event, and not by the influenza virus, because of the timing, neurological symptoms, and unknown causative agent of the pandemic.[37] In the 1950s, the human coronavirus OC43 began to split into its present genotypes.[38]
+
+Alpaca coronavirus and human coronavirus 229E diverged before 1960.[39]
+
+Human coronaviruses
+
+Illustration of SARSr-CoV virion
+Coronaviruses vary significantly in risk factor. Some can kill more than 30% of those infected (such as MERS-CoV), and some are relatively harmless, such as the common cold.[15] Coronaviruses cause colds with major symptoms, such as fever, and a sore throat from swollen adenoids, occurring primarily in the winter and early spring seasons.[40] Coronaviruses can cause pneumonia (either direct viral pneumonia or secondary bacterial pneumonia) and bronchitis (either direct viral bronchitis or secondary bacterial bronchitis).[41] The human coronavirus discovered in 2003, SARS-CoV, which causes severe acute respiratory syndrome (SARS), has a unique pathogenesis because it causes both upper and lower respiratory tract infections.[41]
+
+Six species of human coronaviruses are known, with one species subdivided into two different strains, making seven strains of human coronaviruses altogether. Four of these strains produce the generally mild symptoms of the common cold:
+
+Human coronavirus OC43 (HCoV-OC43), of the genus β-CoV
+Human coronavirus HKU1 (HCoV-HKU1), β-CoV, its genome has 75% similarity to OC43[42]
+Human coronavirus 229E (HCoV-229E), α-CoV
+Human coronavirus NL63 (HCoV-NL63), α-CoV
+Three strains (two species) produce symptoms that are potentially severe; all three of these are β-CoV strains:
+
+Middle East respiratory syndrome-related coronavirus (MERS-CoV)
+Severe acute respiratory syndrome coronavirus (SARS-CoV)
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+The coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 continually circulate in the human population and cause respiratory infections in adults and children worldwide.[43]
+
+Outbreaks of coronavirus diseases
+Severe acute respiratory syndrome (SARS)
+Main article: Severe acute respiratory syndrome
+Characteristics of human coronavirus strains
+MERS-CoV, SARS-CoV, SARS-CoV-2,
+and related diseases
+MERS-CoV	SARS-CoV	SARS-CoV-2
+Disease	MERS	SARS	COVID-19
+Outbreaks	2012, 2015,
+2018	2002–2004	2019–2020
+pandemic
+Epidemiology
+Date of first
+identified case	June
+2012	November
+2002	December
+2019[44]
+Location of first
+identified case	Jeddah,
+Saudi Arabia	Shunde,
+China	Wuhan,
+China
+Age average	56	44[45][a]	56[46]
+Sex ratio (male to female)	3.3:1	0.8:1[47]	1.6:1[46]
+Confirmed cases	2494	8096[48]	1,783,941[49][b]
+Deaths	858	774[48]	109,312[49][b]
+Case fatality rate	37%	9.2%	6.1%[49]
+Symptoms
+Fever	98%	99–100%	87.9%[50]
+Dry cough	47%	29–75%	67.7%[50]
+Dyspnea	72%	40–42%	18.6%[50]
+Diarrhea	26%	20–25%	3.7%[50]
+Sore throat	21%	13–25%	13.9%[50]
+Ventilatory support	24.5%[51]	14–20%	4.1%[52]
+Notes
+ Based on data from Hong Kong.
+ Data as of 12 April 2020.
+vte
+In 2003, following the outbreak of severe acute respiratory syndrome (SARS) which had begun the prior year in Asia, and secondary cases elsewhere in the world, the World Health Organization (WHO) issued a press release stating that a novel coronavirus identified by a number of laboratories was the causative agent for SARS. The virus was officially named the SARS coronavirus (SARS-CoV). More than 8,000 people were infected, about ten percent of whom died.[25]
+
+Middle East respiratory syndrome (MERS)
+Main article: Middle East respiratory syndrome
+In September 2012, a new type of coronavirus was identified, initially called Novel Coronavirus 2012, and now officially named Middle East respiratory syndrome coronavirus (MERS-CoV).[53][54] The World Health Organization issued a global alert soon after.[55] The WHO update on 28 September 2012 said the virus did not seem to pass easily from person to person.[56] However, on 12 May 2013, a case of human-to-human transmission in France was confirmed by the French Ministry of Social Affairs and Health.[57] In addition, cases of human-to-human transmission were reported by the Ministry of Health in Tunisia. Two confirmed cases involved people who seemed to have caught the disease from their late father, who became ill after a visit to Qatar and Saudi Arabia. Despite this, it appears the virus had trouble spreading from human to human, as most individuals who are infected do not transmit the virus.[58] By 30 October 2013, there were 124 cases and 52 deaths in Saudi Arabia.[59]
+
+After the Dutch Erasmus Medical Centre sequenced the virus, the virus was given a new name, Human Coronavirus—Erasmus Medical Centre (HCoV-EMC). The final name for the virus is Middle East respiratory syndrome coronavirus (MERS-CoV). The only U.S. cases (both survived) were recorded in May 2014.[60]
+
+In May 2015, an outbreak of MERS-CoV occurred in the Republic of Korea, when a man who had traveled to the Middle East, visited four hospitals in the Seoul area to treat his illness. This caused one of the largest outbreaks of MERS-CoV outside the Middle East.[61] As of December 2019, 2,468 cases of MERS-CoV infection had been confirmed by laboratory tests, 851 of which were fatal, a mortality rate of approximately 34.5%.[62]
+
+Coronavirus disease 2019 (COVID-19)
+Main article: Coronavirus disease 2019
+In December 2019, a pneumonia outbreak was reported in Wuhan, China.[63] On 31 December 2019, the outbreak was traced to a novel strain of coronavirus,[64] which was given the interim name 2019-nCoV by the World Health Organization (WHO),[65][66][67] later renamed SARS-CoV-2 by the International Committee on Taxonomy of Viruses. Some researchers have suggested the Huanan Seafood Wholesale Market may not be the original source of viral transmission to humans.[68][69]
+
+As of 12 April 2020, there have been at least 109,312[49] confirmed deaths and more than 1,783,941[49] confirmed cases in the coronavirus pneumonia pandemic. The Wuhan strain has been identified as a new strain of Betacoronavirus from group 2B with approximately 70% genetic similarity to the SARS-CoV.[70] The virus has a 96% similarity to a bat coronavirus, so it is widely suspected to originate from bats as well.[68][71] The pandemic has resulted in travel restrictions and nationwide lockdowns in several countries.
+
+Other animals
+Coronaviruses have been recognized as causing pathological conditions in veterinary medicine since the 1930s.[9] Except for avian infectious bronchitis, the major related diseases have mainly an intestinal location.[72]
+
+Diseases caused
+Coronaviruses primarily infect the upper respiratory and gastrointestinal tract of mammals and birds. They also cause a range of diseases in farm animals and domesticated pets, some of which can be serious and are a threat to the farming industry. In chickens, the infectious bronchitis virus (IBV), a coronavirus, targets not only the respiratory tract but also the urogenital tract. The virus can spread to different organs throughout the chicken.[73] Economically significant coronaviruses of farm animals include porcine coronavirus (transmissible gastroenteritis coronavirus, TGE) and bovine coronavirus, which both result in diarrhea in young animals. Feline coronavirus: two forms, feline enteric coronavirus is a pathogen of minor clinical significance, but spontaneous mutation of this virus can result in feline infectious peritonitis (FIP), a disease associated with high mortality. Similarly, there are two types of coronavirus that infect ferrets: Ferret enteric coronavirus causes a gastrointestinal syndrome known as epizootic catarrhal enteritis (ECE), and a more lethal systemic version of the virus (like FIP in cats) known as ferret systemic coronavirus (FSC).[74] There are two types of canine coronavirus (CCoV), one that causes mild gastrointestinal disease and one that has been found to cause respiratory disease. Mouse hepatitis virus (MHV) is a coronavirus that causes an epidemic murine illness with high mortality, especially among colonies of laboratory mice.[75] Sialodacryoadenitis virus (SDAV) is highly infectious coronavirus of laboratory rats, which can be transmitted between individuals by direct contact and indirectly by aerosol. Acute infections have high morbidity and tropism for the salivary, lachrymal and harderian glands.[76]
+
+A HKU2-related bat coronavirus called swine acute diarrhea syndrome coronavirus (SADS-CoV) causes diarrhea in pigs.[77]
+
+Prior to the discovery of SARS-CoV, MHV had been the best-studied coronavirus both in vivo and in vitro as well as at the molecular level. Some strains of MHV cause a progressive demyelinating encephalitis in mice which has been used as a murine model for multiple sclerosis. Significant research efforts have been focused on elucidating the viral pathogenesis of these animal coronaviruses, especially by virologists interested in veterinary and zoonotic diseases.[78]
+
+Domestic animals
+Infectious bronchitis virus (IBV) causes avian infectious bronchitis.
+Porcine coronavirus (transmissible gastroenteritis coronavirus of pigs, TGEV).[79][80]
+Bovine coronavirus (BCV), responsible for severe profuse enteritis in of young calves.
+Feline coronavirus (FCoV) causes mild enteritis in cats as well as severe Feline infectious peritonitis (other variants of the same virus).
+the two types of canine coronavirus (CCoV) (one causing enteritis, the other found in respiratory diseases).
+Turkey coronavirus (TCV) causes enteritis in turkeys.
+Ferret enteric coronavirus causes epizootic catarrhal enteritis in ferrets.
+Ferret systemic coronavirus causes FIP-like systemic syndrome in ferrets.[81]
+Pantropic canine coronavirus.
+Rabbit enteric coronavirus causes acute gastrointestinal disease and diarrhea in young European rabbits. Mortality rates are high.[82]
+Porcine epidemic diarrhea virus (PED or PEDV), has emerged around the world.[83]
