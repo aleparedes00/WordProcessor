@@ -13,3 +13,9 @@ Create a program with Scala basic library that load a file with words, shape the
 
 ## Steps
 1. Git and setup a scala project
+2. Load file from path into String
+3. Load file from path into List
+* Load
+* Clean
+* Split
+4. Remove stop words

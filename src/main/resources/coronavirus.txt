@@ -26,29 +26,6 @@ Coronaviruses are a group of related viruses that cause diseases in mammals and 
 Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronaviridae, order Nidovirales, and realm Riboviria.[5][6] They are enveloped viruses with a positive-sense single-stranded RNA genome and a nucleocapsid of helical symmetry. The genome size of coronaviruses ranges from approximately 26 to 32 kilobases, one of the largest among RNA viruses.[7] They have characteristic club-shaped spikes that project from their surface, which in electron micrographs create an image reminiscent of the solar corona from which their name derives.[8]
 
 
-Contents
-1	Discovery
-2	Etymology
-3	Structure
-4	Genome
-5	Life cycle
-5.1	Entry
-5.2	Replication
-5.3	Release
-6	Transmission
-7	Taxonomy
-8	Evolution
-9	Human coronaviruses
-10	Outbreaks of coronavirus diseases
-10.1	Severe acute respiratory syndrome (SARS)
-10.2	Middle East respiratory syndrome (MERS)
-10.3	Coronavirus disease 2019 (COVID-19)
-11	Other animals
-11.1	Diseases caused
-11.2	Domestic animals
-12	See also
-13	References
-14	Further reading
 Discovery
 Coronaviruses were first discovered in the 1930s when an acute respiratory infection of domesticated chickens was shown to be caused by infectious bronchitis virus (IBV). In the 1940s, two more animal coronaviruses, mouse hepatitis virus (MHV) and transmissible gastroenteritis virus (TGEV), were isolated.[9]
 
