@@ -1,3 +1,4 @@
+import scala.collection.mutable
 import scala.util.{Failure, Success, Try}
 
 object Main extends App {
@@ -9,7 +10,13 @@ object Main extends App {
   // testing
   val toto = loadFile("smallFile.txt")
   val cleanToto = removeNonAlpha(toto)
-  println(s"---> Result of filterNot -> \n ${top10MostFrequentWord(cleanToto, stopWords)}")
+  val mapWordCounts = countWords(cleanToto, stopWords)
+  var mapMostUsedWords = most10UsedWords(mapWordCounts)
+  println(s"---> Result of Scala way -> \n ${mapMostUsedWords}")
+
+  // Testing wordcount2
+  val countWords = countWords2(cleanToto)
+  println(s"---> Result for the Loop way -->\n $countWords")
 
   //  println(top10MostFrequentWord())
   def loadFile(filename: String): String = {
@@ -40,7 +47,22 @@ object Main extends App {
       .filter(!_.isEmpty)
   }
 
-  def top10MostFrequentWord(listOfWords: List[String], stopWords: List[String]): List[(String, Int)] = {
-    listOfWords.filterNot(stopWords.contains).map(word => (word, 1))
+  def countWords(listOfWords: List[String], stopWords: List[String]): Map[String, Int] =
+    listOfWords.filterNot(stopWords.contains).groupBy(identity).mapValues(_.size)
+
+  def most10UsedWords(wordCount: Map[String, Int]): Map[String, Int] = wordCount.toSeq.sortBy(-_._2).take(2).toMap
+
+  def countWords2(listOfWords: List[String]): Seq[(String, Int)] = {
+    // Create empty Map
+    var mapWordCounts = collection.mutable.Map[String, Int]()
+    val listWithoutStopWords = listOfWords.filterNot(stopWords.contains)
+    for (word <- listWithoutStopWords) {
+      if (mapWordCounts.contains(word)) {
+        mapWordCounts(word) += 1
+      } else {
+        mapWordCounts += (word -> 1)
+      }
+    }
+    mapWordCounts.toSeq.sortBy(-_._2).take(2)
   }
 }
