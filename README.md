@@ -15,7 +15,9 @@ Create a program with Scala basic library that load a file with words, shape the
 1. Git and setup a scala project
 2. Load file from path into String
 3. Load file from path into List
-* Load
-* Clean
-* Split
+    * Load
+    * Clean
+    * Split
 4. Remove stop words
+5. Count words and sort
+6. Print top 10
