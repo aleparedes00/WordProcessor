@@ -57,7 +57,7 @@ object Main extends App {
     var mapWordCounts = collection.mutable.Map[String, Int]()
     val listWithoutStopWords = listOfWords.filterNot(stopWords.contains)
     for (word <- listWithoutStopWords) {
-      if (mapWordCounts.contains(word)) {
+      if (mapWordCounts contains word) {
         mapWordCounts(word) += 1
       } else {
         mapWordCounts += (word -> 1)
