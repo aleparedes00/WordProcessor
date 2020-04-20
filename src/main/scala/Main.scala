@@ -20,13 +20,13 @@ object Main extends App {
 
   //  println(top10MostFrequentWord())
   def loadFile(filename: String): String = {
-    loan(getClass.getResourceAsStream(filename)) {
-      io.Source.fromInputStream(_).mkString
+    getFileInformation(getClass.getResourceAsStream(filename)) {
+      scala.io.Source.fromInputStream(_).mkString
     }
   }
 
 
-  def loan[A <: AutoCloseable, B](resource: A)(block: A => B): B = {
+  def getFileInformation[A <: AutoCloseable, B](resource: A)(block: A => B): B = {
     Try(block(resource)) match {
       case Success(result) =>
         resource.close()
